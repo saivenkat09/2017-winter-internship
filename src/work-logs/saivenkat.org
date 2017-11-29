@@ -18,6 +18,6 @@
 ** 28_11_17
 
 -- Gone through vlabs guidelines and some process managements
--- Tried to run oath services master branch application on local machine but after
-   wasting much time i have realized that the branch doesn't have the complete code
+-- Explored onboarding and literate-tools repo's on vlead
+-- Tried to set the environment needed for oath services
 -- ADS enviroment setup
